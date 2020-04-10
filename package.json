@@ -1,0 +1,24 @@
+{
+  "name": "Platzi-media-player",
+  "version": "1.0.0",
+  "description": "Proyecto del curso profesional de Javascript",
+  "scripts": {
+    "start" : "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acuacu/javascript-profesional.git"
+  },
+  "keywords": [
+    "Platzi"
+  ],
+  "author": "Walter Daniel Acuña <walterdaniel.backend@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acuacu/javascript-profesional/issues"
+  },
+  "homepage": "https://github.com/acuacu/javascript-profesional#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
